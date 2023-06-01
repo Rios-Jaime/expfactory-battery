@@ -21,15 +21,15 @@ jsPsych.plugins["attention-check"] = (function () {
       A: 40,
     },
     {
-      Q: "<p>Russell loves to rock out to punk music. It's his favorite genre. Press the key that corresponds to the first letter of Russell's favorite genre.</p>",
+      Q: "<p>Russell loves to rock out to 'punk' music. It's his favorite genre. Press the key that corresponds to the first letter of Russell's favorite genre.</p>",
       A: 80,
     },
     {
-      Q: "<p>Jaime went to go see the band Bedlocked play live. Press the key that corresponds to the first letter of the band Jaime went to go see play live.</p>",
+      Q: "<p>Jaime went to go see the band 'Bedlocked' play live. Press the key that corresponds to the first letter of the band Jaime went to go see play live.</p>",
       A: 66,
     },
     {
-      Q: "<p>Press the key corresponding to the number of siddes a square has.</p>",
+      Q: "<p>Press the key corresponding to the number of sides a square has.</p>",
       A: 52,
     },
     {
@@ -45,15 +45,15 @@ jsPsych.plugins["attention-check"] = (function () {
       A: 189,
     },
     {
-      Q: "<p>Press the number corresponding to the number of moons that Earth has orbiting it.</p>",
+      Q: "<p>Press the number key corresponding to the number of moons that Earth has orbiting it.</p>",
       A: 49,
     },
     {
-      Q: "<p>Press the number corresponding to the number of sides that a triangle has.</p>",
+      Q: "<p>Press the number key corresponding to the number of sides that a triangle has.</p>",
       A: 51,
     },
     {
-      Q: "<p>Press the number corresponding to the number of sides that a cube has.</p>",
+      Q: "<p>Press the number key corresponding to the number of sides that a cube has.</p>",
       A: 54,
     },
     {
